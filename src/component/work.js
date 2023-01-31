@@ -3,7 +3,7 @@ import React from 'react';
 import socialMeida from '../assets/Instachat.png'
 import b4booksUser from '../assets/b4booksUser.png'
 import b4booksAdmin from '../assets/b4booksAdmin.png'
-import letsChat from '../assets/letsChat.png'
+// import letsChat from '../assets/letsChat.png'
 import OLX from '../assets/olx.png'
 import Incubation from '../assets/incubation.png'
 
