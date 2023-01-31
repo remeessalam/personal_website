@@ -1,8 +1,8 @@
 import React from 'react';
 
 import socialMeida from '../assets/Instachat.png'
-import b4booksUser from '../assets/b4booksUser.png'
-import b4booksAdmin from '../assets/b4booksAdmin.png'
+import ecommerce from '../assets/ecommerse.png'
+import ecommerceAdmin from '../assets/ecommerse_admin.png'
 // import letsChat from '../assets/letsChat.png'
 import OLX from '../assets/olx.png'
 import Incubation from '../assets/incubation.png'
@@ -51,13 +51,13 @@ const Work = () => {
                         </div>
                     </div>
                     <div
-                        style={{ backgroundImage: `url(${b4booksUser})`, backgroundSize: 'cover'  }}
+                        style={{ backgroundImage: `url(${ecommerce})`, backgroundSize: 'cover'  }}
                         className='shadow-lg shadow-pink-600 group container rounded-md flex justify-center items-center mx-auto content-div'
                     >
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 w-full h-full  bg-[#0a192f] '>
                             <div className='text-2xl text-center mt-10 font-bold text-white tracking-wider'>
-                                Rental platform User 
+                                Ecommerce platform User 
                             </div>
                             <div className='pt-8 text-center'>
                                 <a href='https://www.adidasshoe.shop' target='_blank' rel="noreferrer">
@@ -75,13 +75,13 @@ const Work = () => {
                     </div>
                     {/* Grid Item */}
                     <div
-                        style={{ backgroundImage: `url(${b4booksAdmin})`, backgroundSize: 'cover'  }}
+                        style={{ backgroundImage: `url(${ecommerceAdmin})`, backgroundSize: 'cover'  }}
                         className='shadow-lg shadow-pink-600 group container rounded-md flex justify-center items-center mx-auto content-div'
                     >
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 w-full h-full bg-[#0a192f] '>
                             <div className='text-2xl text-center mt-10 font-bold text-white tracking-wider'>
-                            Rental platform Admin
+                            Ecommerce platform Admin
                             </div>
                             <div className='pt-8 text-center'>
                                 <a href='https://www.adidasshoe.shop/admin' >
