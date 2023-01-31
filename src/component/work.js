@@ -1,6 +1,6 @@
 import React from 'react';
 
-import socialMeida from '../assets/Tether.png'
+import socialMeida from '../assets/Instachat.png'
 import b4booksUser from '../assets/b4booksUser.png'
 import b4booksAdmin from '../assets/b4booksAdmin.png'
 import letsChat from '../assets/letsChat.png'
@@ -32,14 +32,19 @@ const Work = () => {
                                 Social Media
                             </div>
                             <div className='pt-8 text-center'>
-                                <a href='https://t-ether.click' target='_blank' rel="noreferrer">
+                                <a href='https://instachat.online' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href='https://github.com/cv-arun/Tether' target='_blank' rel="noreferrer">
+                                <a href='https://github.com/remeessalam/insta-chat_frontEnd' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                                        Code
+                                       Front-End Code
+                                    </button>
+                                </a>
+                                <a href='https://github.com/remeessalam/insta-chat_backEnd' target='_blank' rel="noreferrer">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                                        Back-End Code
                                     </button>
                                 </a>
                             </div>

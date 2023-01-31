@@ -38,7 +38,7 @@ const Home = () => {
                 <a
                   className='flex justify-between items-center w-full text-gray-300'
                   target="blank"
-                  href='https://linkedin.com/in/cvarun98'
+                  href='https://linkedin.com/in/remees-salam'
                 >
                  Linkedin <FaLinkedin size={30} />
                 </a>
@@ -47,7 +47,7 @@ const Home = () => {
                 <a
                   className='flex justify-between items-center w-full text-gray-300'
                   target="blank"
-                  href='https://github.com/cv-arun'
+                  href='https://github.com/remeessalam'
                 >
                   <FaGithub size={30} />
                 </a>
