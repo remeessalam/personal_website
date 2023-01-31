@@ -60,12 +60,12 @@ const Work = () => {
                                 Rental platform User 
                             </div>
                             <div className='pt-8 text-center'>
-                                <a href='https://b4books.store' target='_blank' rel="noreferrer">
+                                <a href='https://www.adidasshoe.shop' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href='https://github.com/cv-arun/B4books' target='_blank' rel="noreferrer">
+                                <a href='https://github.com/remeessalam/adidas' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -84,12 +84,12 @@ const Work = () => {
                             Rental platform Admin
                             </div>
                             <div className='pt-8 text-center'>
-                                <a href='https://b4books.store/admin' >
+                                <a href='https://www.adidasshoe.shop/admin' >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href='https://github.com/cv-arun/B4books' target='_blank' rel="noreferrer">
+                                <a href='https://github.com/remeessalam/adidas' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -112,7 +112,7 @@ const Work = () => {
                                         Demo
                                     </button>
                                 </a>
-                                <a href='https://github.com/cv-arun/IncubationManger-react-node-' target='_blank' rel="noreferrer">
+                                <a href='https://github.com/remeessalam/Incubation-Management' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -120,12 +120,12 @@ const Work = () => {
                             </div>
                         </div>
                     </div>
-                    <div
+                    {/* <div
                         style={{ backgroundImage: `url(${letsChat})`, backgroundSize: 'cover'  }}
                         className='shadow-lg shadow-pink-600 group container rounded-md flex justify-center items-center mx-auto content-div'
-                    >
+                    > */}
                         {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100 w-full h-full bg-[#0a192f] '>
+                        {/* <div className='opacity-0 group-hover:opacity-100 w-full h-full bg-[#0a192f] '>
                             <div className='text-2xl text-center mt-10 font-bold text-white tracking-wider'>
                                 Chat application
                             </div>
@@ -142,7 +142,7 @@ const Work = () => {
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* Grid Item */}
                     <div
                         style={{ backgroundImage: `url(${OLX})`, backgroundSize: 'cover'  }}
@@ -159,7 +159,7 @@ const Work = () => {
                                         Demo
                                     </button>
                                 </a>
-                                <a href='https://github.com/cv-arun/olx-clone' target='_blank' rel="noreferrer">
+                                <a href='https://github.com/remeessalam/olx-clone' target='_blank' rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
